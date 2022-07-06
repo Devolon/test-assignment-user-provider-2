@@ -2,7 +2,7 @@
 
 ## Running the user provider instance
 ```shell
-docker run --rm -p 3000:3000 dev0l0n/test-assignment-user-provider-1:latest
+docker run --rm -p 3000:3000 dev0l0n/test-assignment-user-provider-2:latest
 ```
 
 ## Endpoints
